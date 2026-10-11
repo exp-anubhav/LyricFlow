@@ -4,3 +4,20 @@
 /app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
 /app/build/intermediates/javac/debugAndroidTest/compileDebugAndroidTestJavaWithJavac/classes/
 /build/
+# Android Studio / IDE
+.idea/
+
+# Kotlin generated files
+.kotlin/
+
+# Local machine configuration
+local.properties
+
+# Build and release outputs
+app/build/
+app/release/
+build/
+.gradle/
+
+# Temporary patch instructions
+PATCH_INSTRUCTIONS.txt
